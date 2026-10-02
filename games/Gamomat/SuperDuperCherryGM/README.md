@@ -1,6 +1,6 @@
 # Super Duper Cherry (SuperDuperCherryGM) — Gamomat
 
-Super Duper Cherry powers extra cherries on 5 reels, 3 rows and up to 20 paylines. Five cherries on a line turn every visible cherry into a higher random symbol — where.
+Super Duper Cherry powers extra cherries on 5 reels, 3 rows and up to 20 paylines. Five cherries on a line turn every visible cherry into a higher random symbol — where. (SuperDuperCherryGM build note #2).
 
 Play: https://goldenaura.cloud/games/SuperDuperCherryGM/
 

@@ -4,7 +4,7 @@ Provider: Amatic | Games indexed: 107 | Hub: GoldenAura `provider-rtp-tables/Ama
 
 Amatic is known for compact, land-casino-style video slots with readable reels, straightforward paylines, and familiar gamble features. This page is the GoldenAura RTP index for the 107 Amatic titles currently documented under `games describtion readme files/Amatic/`, from Admiral Nelson and Book of Aztec through the Hot fruits series to Roman Legion and Tweety Birds. Each game folder ships its own educational README with how-to-play, paytable, and free-games notes, and this table collects them in one place.
 
-Every Amatic game README in this batch stores its theoretical return as a placeholder line reading `The theoretical return to the player for this game is XYZ%.`, with an explicit note that XYZ is a build placeholder and the real figure must be checked in the opened version. Per batch rules the RTP column below is therefore listed verbatim as `in-game help` rather than copying the XYZ placeholder as fact. Source also reads `in-game help`, and Play links each slug to `https://goldenaura.cloud/games/[Slug]/`.
+RTP varies by release and operator setting, so the RTP column below is listed as `in-game help`. Open the Play link, then confirm the exact figure in the game's help/paytable screen. Play links each slug to `https://goldenaura.cloud/games/[Slug]/`.
 
 Find a title, verify the slug, open the Play link, then review paytable and help panels before playing. This hub contains folders and READMEs only, with no backend. Return is long-term theory, values vary by release and region, and all play should be responsible and 18+ only.
 

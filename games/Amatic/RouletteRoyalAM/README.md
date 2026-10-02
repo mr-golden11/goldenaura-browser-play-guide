@@ -18,8 +18,7 @@ Play Roulette Royal: https://goldenaura.cloud/games/RouletteRoyalAM/
 - No bonusspin trigger is described in the text help files present in this build; check the in-game help panels for this version.
 
 ## RTP
-"- The theoretical return to the player for this game is XYZ%."
-- The build stores XYZ as a placeholder, so check the in-game help for the version you opened, since numbers can differ by release and region.
+- RTP is shown in the in-game help/paytable for the version you opened, since numbers can differ by release and region.
 
 ## Library
 - Games library: https://goldenaura.cloud/games/

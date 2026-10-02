@@ -20,8 +20,7 @@ Play Book Of Lords: https://goldenaura.cloud/games/BookOfLordsAM/
 "- With active gamble mode the player has the chance to multiply the win; double by color, quadruple by suit."
 
 ## RTP
-"- The theoretical return to the player for this game is XYZ%."
-- The build stores XYZ as a placeholder, so check the in-game help for the version you opened, since numbers can differ by release and region.
+- RTP is shown in the in-game help/paytable for the version you opened, since numbers can differ by release and region.
 
 ## Library
 - Games library: https://goldenaura.cloud/games/

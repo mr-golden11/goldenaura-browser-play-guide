@@ -1,6 +1,6 @@
 # Royal Seven XXL (RoyalSevenXXLGM) — Gamomat
 
-Royal Seven XXL holds court on 5 reels, 4 rows and up to 20 paylines. Warm-colored fruits and sevens stack all over the screen while more paylines multiply the courtly excitement. XXL stacked-board edition.
+Royal Seven XXL holds court on 5 reels, 4 rows and up to 20 paylines. Warm-colored fruits and sevens stack all over the screen while more paylines multiply the courtly excitement. XXL stacked-board edition. (RoyalSevenXXLGM build note #2).
 
 Play: https://goldenaura.cloud/games/RoyalSevenXXLGM/
 
