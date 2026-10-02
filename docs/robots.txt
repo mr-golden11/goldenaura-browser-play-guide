@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mr-golden11.github.io/goldenaura-browser-play-guide/sitemap.xml
